@@ -1,0 +1,1 @@
+I will be making a recipe website, demonstrating basic html skills as well as the ability to use the terminal, git, and github to manage my code through good commits and repositories.
